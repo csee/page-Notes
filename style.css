@@ -25,7 +25,7 @@ html {
 }
 @media (min-width: 25em) {
   html {
-    font-size: 20px;
+    font-size: 32px;
   }
 }
 @media (min-width: 31.25em) {
@@ -131,7 +131,7 @@ a {
   min-height: 60vh;
   width: 100%;
   align-content: center;
-  padding: 20vh 20vh 20vh 20vh;
+  padding: 10vh 20vh 10vh 20vh;
 }
 
 .section .section__inner {
